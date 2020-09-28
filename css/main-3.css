@@ -6,7 +6,8 @@ body,html{
     text-decoration: none;
     color: #393b44;
     padding: 10px 15px;
-    font-family: lemon milk;
+    font-family: "Bebas Neue";
+    font-size: 30px;
 }
 .link:hover{
     background-color: #e8e8e8;
@@ -22,20 +23,20 @@ body,html{
 }
 /*heading*/
 .heading-1{
-    font-family: lemon milk;
+    font-family: "Bebas Neue";
     font-size: :60px;
     color: #f0eeee;
     margin: auto;
 }
 .heading-2{
-    font-family: lemon milk;
+    font-family: "Bebas Neue";
     font-size: :40px;
     color: #f0eeee;
     margin: auto;
 
 }
 .heading-3{
-    font-family: nexa light;
+    font-family: "Syne";
     font-size: :15px;
     color: #f0eeee;
     margin: auto;
@@ -63,7 +64,7 @@ body,html{
 }
 .col-border{
     min-height: 100px;
-    border: solid 1px #393b44;
+    border: none;
     text-align: center;
     padding: 20px 0px;
 }
